@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil. 💙
 
-<!--
-**nanay00/nanay00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Hyanna Kerine 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para a organizaão e complartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*** você pode entrara emm contado comigo. 💎
+
+kerinehyanna@gmail.com
+
+@k.hyyaa
+
+![](
+https://media1.tenor.com/m/xLSK5ndb1sEAAAAC/sociedade-esportiva-palmeiras-palmeiras.gif)
